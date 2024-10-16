@@ -3,6 +3,7 @@ from get_currency import get_currency
 from amount import amount
 
 test = '1'
+test2 = '5'
 replay = 'y'
 welcome()
 while replay == 'y':
