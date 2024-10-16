@@ -2,8 +2,8 @@ from welcome import welcome
 from get_currency import get_currency
 from amount import amount
 
-test = '1'
-test2 = '5'
+test2 = '3'
+test = '2'
 replay = 'y'
 welcome()
 while replay == 'y':
