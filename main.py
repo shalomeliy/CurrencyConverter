@@ -2,7 +2,7 @@ from welcome import welcome
 from get_currency import get_currency
 from amount import amount
 
-test2 = '3'
+test2 = '4'
 test = '2'
 replay = 'y'
 welcome()
